@@ -3,3 +3,5 @@ Text was written inside the new_file!
 First change
 
 Second change
+
+Third change
